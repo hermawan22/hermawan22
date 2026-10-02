@@ -1,27 +1,21 @@
 # Hi, I'm Nino
 
-Software engineer building useful products, with a focus on practical tools, thoughtful design, and simpler ways to get things done.
+I'm a software engineer interested in building products that help people get things done more easily.
 
-I care about the decisions behind good software: understanding the problem, keeping the experience clear, and making the code easier to maintain.
+I care about understanding the problem, keeping things simple, and making something useful.
 
-## What interests me
+## What I'm building
 
-- Web tools that reduce friction in everyday tasks.
-- Maintainable software and thoughtful product design.
-- Practical AI when it helps solve the problem.
+### [Aeliqo](https://github.com/Arconath/aeliqo)
 
-## From my public repositories
+An adaptive UI framework that turns typed requests into views of application data.
 
-A few tools and experiments from my GitHub history:
+[Explore the repository](https://github.com/Arconath/aeliqo) · [Read the docs](https://docs.aeliqo.com/) · [Try the playground](https://docs.aeliqo.com/playground/)
 
-| Repository | What you'll find |
-| --- | --- |
-| [create-nodejs-app](https://github.com/hermawan22/create-nodejs-app) | A CLI for scaffolding a Node.js API, with a module-based project structure. |
-| [mySpeech](https://github.com/hermawan22/mySpeech) | A small JavaScript library for browser speech synthesis. |
-| [learn-microfrontend](https://github.com/hermawan22/learn-microfrontend) | An experiment for learning about micro frontends. |
+## Earlier tools and experiments
 
-These repositories reflect different stages of learning and building; check each repository for its current state.
+[mySpeech](https://github.com/hermawan22/mySpeech) · [create-nodejs-app](https://github.com/hermawan22/create-nodejs-app) · [learn-microfrontend](https://github.com/hermawan22/learn-microfrontend)
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/hermawan22/) · [Bluesky](https://bsky.app/profile/hermawanino22.bsky.social)
+[X](https://x.com/hermawanino22) · [LinkedIn](https://www.linkedin.com/in/hermawan22/)
