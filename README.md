@@ -12,10 +12,6 @@ An adaptive UI framework that turns typed requests into views of application dat
 
 [Explore the repository](https://github.com/Arconath/aeliqo) · [Read the docs](https://docs.aeliqo.com/) · [Try the playground](https://docs.aeliqo.com/playground/)
 
-## Earlier tools and experiments
-
-[mySpeech](https://github.com/hermawan22/mySpeech) · [create-nodejs-app](https://github.com/hermawan22/create-nodejs-app) · [learn-microfrontend](https://github.com/hermawan22/learn-microfrontend)
-
 ## Connect
 
 [X](https://x.com/hermawanino22) · [LinkedIn](https://www.linkedin.com/in/hermawan22/)
