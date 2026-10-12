@@ -6,11 +6,11 @@ I care about understanding the problem, keeping things simple, and making someth
 
 ## What I'm building
 
-### [Aeliqo](https://github.com/Arconath/aeliqo)
+### [Varendo](https://github.com/hermawan22/varendo)
 
 An adaptive UI framework that turns typed requests into views of application data.
 
-[Explore the repository](https://github.com/Arconath/aeliqo) · [Read the docs](https://docs.aeliqo.com/) · [Try the playground](https://docs.aeliqo.com/playground/)
+[Explore the repository](https://github.com/hermawan22/varendo) · [Read the docs](https://hermawan22.github.io/varendo/) · [Try the playground](https://hermawan22.github.io/varendo/playground/)
 
 ## Connect
 
